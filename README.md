@@ -43,7 +43,7 @@ Desenvolvimento de Landing Pages das unidades de negócio, hotsites, webapps, lo
 HTML5<br>
 CSS3 e pré processadores (Sass), Flexbox, CSS Grid entre outros.<br>
 Padrôes Web<br>
-Bootstrap
+Bootstrap<br>
 Javascript e jQuery<br>
 Web Design Responsivo<br>
 Automatizadores de tarefa (Gulp)<br>
