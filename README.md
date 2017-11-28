@@ -17,10 +17,10 @@ Ensino Superior Completo em Tecnologia em Sistemas para Internet Concluído
 em Dezembro de 2012, pelas Faculdades Metropolitanas Unidas (FMU).
 
 ## Experiência:
-Empresa: Lion Agency<br>
-Período: fevereiro/2017 até o momento.<br>
-Cargo: Desenvolvedor Front-End<br>
-Atividades: Desenvolvimento de Landing Pages, hotsites, webapps em conjunto
+<b>Empresa:</b> Lion Agency<br>
+<b>Período:</b> fevereiro/2017 até o momento.<br>
+<b>Cargo:</b> Desenvolvedor Front-End<br>
+<b>Atividades:</b> Desenvolvimento de Landing Pages, hotsites, webapps em conjunto
 com o desenvolvedor Back-End, email-marketing, entre outras atividades<br>
 
 <b>Empresa:</b> GingaOne<br>
