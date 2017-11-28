@@ -51,5 +51,6 @@ CSS3 pré processadores (Sass)<br>
 Padrôes Web<br>
 Javascript e jQuery<br>
 Web Design Responsivo<br>
-Automatizadores de tarefa (Gulp), Otimizações para 
-performance, testes crossbrowsers
+Automatizadores de tarefa (Gulp)<br>
+Otimizações para performance<br>
+Testes crossbrowsers<br>
