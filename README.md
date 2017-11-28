@@ -1,11 +1,8 @@
-## Lucas de Oliveira Neves<br>
+### Lucas de Oliveira Neves<br>
 Desenvolvedor Front-End
 
 Linkedin: http://www.linkedin.com/lucasoneves<br>
 E-mail: lucasneves17@outlook.com<br>
-
-### Objetivo<br>:
-Desenvolvimento Web/Front-End
 
 ### Qualificações:
 Profissional com formação superior em Tecnologia em Sistemas para Internet
