@@ -1,4 +1,4 @@
-## Lucas de Oliveira Neves<br>
+# Lucas de Oliveira Neves<br>
 Desenvolvedor Front-End<br>
 Brasileiro, Casado, 27 anos.<br>
 São Paulo, SP
@@ -6,17 +6,17 @@ São Paulo, SP
 Linkedin: http://www.linkedin.com/lucasoneves<br>
 E-mail: lucasneves17@outlook.com<br>
 
-### Qualificações:
+## Qualificações:
 Profissional com formação superior em Tecnologia em Sistemas para Internet
 pelas Faculdades Metropolitanas Unidas (FMU). Com inglês em nível
 intermediário. Curso de Desenvolvimento com Javascript e jQuery (Caelum),
 além de outros treinamentos e cursos online voltados para o Front-End.
 
-### Formação Acadêmica:
+## Formação Acadêmica:
 Ensino Superior Completo em Tecnologia em Sistemas para Internet Concluído
 em Dezembro de 2012, pelas Faculdades Metropolitanas Unidas (FMU).
 
-### Experiência:
+## Experiência:
 Empresa: Lion Agency<br>
 Período: fevereiro/2017 até o momento.<br>
 Cargo: Desenvolvedor Front-End<br>
@@ -45,7 +45,7 @@ Cargo: Desenvolvedor Front-End<br>
 Atividades: Desenvolvimento de sites institucionais, hotsites, webapps, lojas
 virtuais, email-marketing e codificação e manutenção de todo o código front-end
 
-### Conhecimentos
+## Conhecimentos
 HTML5<br>
 CSS3 pré processadores (Sass)<br>
 Padrôes Web<br>
