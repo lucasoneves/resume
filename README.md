@@ -46,6 +46,10 @@ Atividades: Desenvolvimento de sites institucionais, hotsites, webapps, lojas
 virtuais, email-marketing e codificação e manutenção de todo o código front-end
 
 ### Conhecimentos
-HTML5, CSS3 e pré processadores (Sass), Padrôes Web, Javascript e jQuery,
-Web Design Responsivo, Automatizadores de tarefa (Gulp), Otimizações para 
+HTML5
+CSS3 pré processadores (Sass)
+Padrôes Web
+Javascript e jQuery
+Web Design Responsivo
+Automatizadores de tarefa (Gulp), Otimizações para 
 performance, testes crossbrowsers
