@@ -41,10 +41,11 @@ Desenvolvimento de Landing Pages das unidades de negócio, hotsites, webapps, lo
 
 ## Conhecimentos
 HTML5<br>
-CSS3 pré processadores (Sass)<br>
+CSS3 e pré processadores (Sass), Flexbox, CSS Grid entre outros.<br>
 Padrôes Web<br>
+Bootstrap
 Javascript e jQuery<br>
 Web Design Responsivo<br>
 Automatizadores de tarefa (Gulp)<br>
-Otimizações para performance<br>
+Otimizações de performance<br>
 Testes crossbrowsers<br>
