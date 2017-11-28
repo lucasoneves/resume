@@ -1,5 +1,7 @@
 ### Lucas de Oliveira Neves<br>
-Desenvolvedor Front-End
+Desenvolvedor Front-End<br>
+Brasileiro, Casado, 27 anos.
+São Paulo, SP
 
 Linkedin: http://www.linkedin.com/lucasoneves<br>
 E-mail: lucasneves17@outlook.com<br>
