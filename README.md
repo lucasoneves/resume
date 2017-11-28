@@ -1,6 +1,8 @@
 # Lucas de Oliveira Neves
 ___________________________________________________________________
 
-Brasileiro, casado, 27 anos
+Github: https://github.com/lucasoneves
 
-Rua Picinguaba, 313 – Vila Santa Isabel - São Paulo/SP
+Linkedin: http://www.linkedin.com/lucasoneves
+
+E-mail: lucasneves17@outlook.com
