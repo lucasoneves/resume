@@ -3,7 +3,7 @@ Desenvolvedor Front-End<br>
 Brasileiro, Casado, 27 anos.<br>
 São Paulo, SP
 
-Linkedin: http://www.linkedin.com/lucasoneves<br>
+Linkedin: https://www.linkedin.com/in/lucasoneves<br>
 E-mail: lucasneves17@outlook.com<br>
 
 ## Qualificações:
