@@ -1,4 +1,4 @@
-### Lucas de Oliveira Neves<br>
+## Lucas de Oliveira Neves<br>
 Desenvolvedor Front-End<br>
 Brasileiro, Casado, 27 anos.<br>
 São Paulo, SP
