@@ -23,27 +23,21 @@ Cargo: Desenvolvedor Front-End<br>
 Atividades: Desenvolvimento de Landing Pages, hotsites, webapps em conjunto
 com o desenvolvedor Back-End, email-marketing, entre outras atividades<br>
 
-Empresa: GingaOne<br>
-Período: março/2016 até fevereiro/2017<br>
-Cargo: Desenvolvedor Front-End<br>
-Atividades: Alocado no cliente Serasa Experian. <br>
-Desenvolvimento de Landing
-Pages das unidades de negócio, hotsites, webapps, lojas virtuais, emailmarketing,
-entre outras atividades. Codificação e manutenção de todo o código
-front-end
+<b>Empresa:</b> GingaOne<br>
+<b>Período:</b> março/2016 até fevereiro/2017<br>
+<b>Cargo:</b> Desenvolvedor Front-End (Alocado no cliente Serasa Experian.)<br>
+<b>Atividades:</b><br>
+Desenvolvimento de Landing Pages das unidades de negócio, hotsites, webapps, lojas virtuais, emailmarketing, entre outras atividades. Codificação e manutenção de todo o código front-end.
 
-Empresa: Grupo Nexo<br>
-Período: 01/2016 até 02/2016<br>
-Cargo: Desenvolvedor Front-End<br>
-Atividades: Desenvolvimento de código Front-End de apresentações de
-medicamentos e produtos do ramo farmacêutico, usando a plataforma Veeva.
-Desenvolvimento de Landing Pages, hotsites, entre outras atividades.
+<b>Empresa:</b> Grupo Nexo<br>
+<b>Período:</b> 01/2016 até 02/2016<br>
+<b>Cargo:</b> Desenvolvedor Front-End<br>
+<b>Atividades:</b> Desenvolvimento de código Front-End de apresentações de medicamentos e produtos do ramo farmacêutico, usando a plataforma Veeva. Desenvolvimento de Landing Pages, hotsites, entre outras atividades.
 
-Empresa: Freead Comunicação<br>
-Período: 02/2015 até 01/2016<br>
-Cargo: Desenvolvedor Front-End<br>
-Atividades: Desenvolvimento de sites institucionais, hotsites, webapps, lojas
-virtuais, email-marketing e codificação e manutenção de todo o código front-end
+<b>Empresa:</b> Freead Comunicação<br>
+<b>Período:</b> 02/2015 até 01/2016<br>
+<b>Cargo:</b> Desenvolvedor Front-End<br>
+<b>Atividades:</b> Desenvolvimento de sites institucionais, hotsites, webapps, lojas virtuais, email-marketing e codificação e manutenção de todo o código front-end
 
 ## Conhecimentos
 HTML5<br>
