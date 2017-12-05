@@ -9,7 +9,7 @@ E-mail: lucasneves17@outlook.com<br>
 ## Qualificações:
 Profissional com formação superior em Tecnologia em Sistemas para Internet
 pelas Faculdades Metropolitanas Unidas (FMU). Com inglês em nível
-intermediário. Curso de Desenvolvimento com Javascript e jQuery (Caelum),
+intermediário. Curso de <a href="https://www.caelum.com.br/">Desenvolvimento com Javascript e jQuery (Caelum)</a>,
 além de outros treinamentos e cursos online voltados para o Front-End.
 
 ## Formação Acadêmica:
