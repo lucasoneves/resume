@@ -50,7 +50,7 @@ CSS3 e pré processadores (Sass), Flexbox, CSS Grid entre outros.<br>
 Padrôes Web<br>
 Bootstrap<br>
 Javascript e jQuery<br>
-Ajax
+Ajax<br>
 Versionamento de código (GIT)<br>
 Web Design Responsivo<br>
 Automatizadores de tarefa (Gulp)<br>
