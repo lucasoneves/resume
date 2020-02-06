@@ -17,8 +17,13 @@ Ensino Superior Completo em Tecnologia em Sistemas para Internet Concluído
 em Dezembro de 2012, pelas Faculdades Metropolitanas Unidas (FMU).
 
 ## Experiência:
+<b>Empresa:</b> DOC88<br>
+<b>Período:</b> Junho/2019 até o momento.<br>
+<b>Cargo:</b> Desenvolvedor Front-End<br>
+<b>Atividades:</b> Desenvolvimento de sistemas web para o mercado de energia. Utilizo Vue.js como principal framework de Front-End. Integração com API em Laravel usando axios.<br>
+
 <b>Empresa:</b> Fullbar Digital<br>
-<b>Período:</b> Fevereiro/2018 até o momento.<br>
+<b>Período:</b> Fevereiro/2018 até Abril/2019.<br>
 <b>Cargo:</b> Desenvolvedor Front-End<br>
 <b>Atividades:</b> Desenvolvimento de webapps, sistemas, sites para campanha de incentivo, websites e landing-pages. Integração com o back-end feito em .Net<br>
 
