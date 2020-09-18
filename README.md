@@ -1,6 +1,6 @@
 # Lucas de Oliveira Neves<br>
 Desenvolvedor Front-End<br>
-Brasileiro, Casado, 29 anos.<br>
+Brasileiro, Casado, 30 anos.<br>
 São Paulo, SP
 
 Linkedin: https://www.linkedin.com/in/lucasoneves<br>
@@ -18,7 +18,7 @@ em Dezembro de 2012, pelas Faculdades Metropolitanas Unidas (FMU).
 
 ## Experiência:
 <b>Empresa:</b> DOC88<br>
-<b>Período:</b> Junho/2019 até o momento.<br>
+<b>Período:</b> Junho/2019 até Setembro/2020.<br>
 <b>Cargo:</b> Desenvolvedor Front-End<br>
 <b>Atividades:</b> Desenvolvimento de sistemas web para o mercado de energia. Utilizo Vue.js como principal framework de Front-End. Integração com API em Laravel usando axios.<br>
 
@@ -52,10 +52,11 @@ Desenvolvimento de Landing Pages das unidades de negócio, hotsites, webapps, lo
 ## Conhecimentos
 HTML5<br>
 CSS3 e pré processadores (Sass), Flexbox, CSS Grid entre outros.<br>
-Padrôes Web<br>
-Bootstrap<br>
-Javascript e jQuery<br>
+Javascript (ES6) e jQuery<br>
+Vue.js<br>
 Ajax<br>
+Bootstrap<br>
+Padrôes Web<br>
 Versionamento de código (GIT)<br>
 Web Design Responsivo<br>
 Automatizadores de tarefa (Gulp)<br>
