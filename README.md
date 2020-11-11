@@ -6,14 +6,8 @@ São Paulo, SP
 Linkedin: https://www.linkedin.com/in/lucasoneves<br>
 E-mail: lucasneves17@outlook.com<br>
 
-## Qualificações:
-Profissional com formação superior em Tecnologia em Sistemas para Internet
-pelas Faculdades Metropolitanas Unidas (FMU). Com inglês em nível
-intermediário. Curso de <a href="https://www.caelum.com.br/">Desenvolvimento com Javascript e jQuery (Caelum)</a>,
-além de outros treinamentos e cursos online voltados para o Front-End.
-
 ## Formação Acadêmica:
-Ensino Superior Completo em Tecnologia em Sistemas para Internet Concluído
+Ensino Superior Incompleto em Tecnologia em Sistemas para Internet Concluído
 em Dezembro de 2012, pelas Faculdades Metropolitanas Unidas (FMU).
 
 ## Experiência:
@@ -52,13 +46,11 @@ Desenvolvimento de Landing Pages das unidades de negócio, hotsites, webapps, lo
 ## Conhecimentos
 HTML5<br>
 CSS3 e pré processadores (Sass), Flexbox, CSS Grid entre outros.<br>
-Javascript (ES6) e jQuery<br>
-Vue.js<br>
-Ajax<br>
+Javascript (ES6, jQuery, Ajax, Vue.js e fundamentos de React)
 Bootstrap<br>
 Padrôes Web<br>
 Versionamento de código (GIT)<br>
-Web Design Responsivo<br>
+Responsividade<br>
 Automatizadores de tarefa (Gulp)<br>
 Otimizações de performance<br>
 Testes crossbrowsers<br>
