@@ -28,18 +28,18 @@ em Dezembro de 2012, pelas Faculdades Metropolitanas Unidas (FMU).
 com o desenvolvedor Back-End, email-marketing, entre outras atividades<br>
 
 <b>Empresa:</b> GingaOne<br>
-<b>Período:</b> março/2016 até fevereiro/2017<br>
+<b>Período:</b> Março/2016 até Fevereiro/2017<br>
 <b>Cargo:</b> Desenvolvedor Front-End (Alocado no cliente Serasa Experian.)<br>
 <b>Atividades:</b><br>
 Desenvolvimento de Landing Pages das unidades de negócio, hotsites, webapps, lojas virtuais, emailmarketing, entre outras atividades. Codificação e manutenção de todo o código front-end.
 
 <b>Empresa:</b> Grupo Nexo<br>
-<b>Período:</b> 01/2016 até 02/2016<br>
+<b>Período:</b> Janeiro/2016 até Fevereiro/2016<br>
 <b>Cargo:</b> Desenvolvedor Front-End<br>
 <b>Atividades:</b> Desenvolvimento de código Front-End de apresentações de medicamentos e produtos do ramo farmacêutico, usando a plataforma Veeva. Desenvolvimento de Landing Pages, hotsites, entre outras atividades.
 
 <b>Empresa:</b> Freead Comunicação<br>
-<b>Período:</b> 02/2015 até 01/2016<br>
+<b>Período:</b> Fevereiro/2015 até Janeiro/2016<br>
 <b>Cargo:</b> Desenvolvedor Front-End<br>
 <b>Atividades:</b> Desenvolvimento de sites institucionais, hotsites, webapps, lojas virtuais, email-marketing e codificação e manutenção de todo o código front-end
 
